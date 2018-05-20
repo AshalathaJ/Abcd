@@ -1,0 +1,12 @@
+package Classes;
+
+public class AreaRectangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	int area_rectangle,w=3,h=5;
+	area_rectangle=w*h;
+	System.out.println("Area of Rectangle is "+area_rectangle);
+	}
+
+}
