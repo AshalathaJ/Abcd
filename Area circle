@@ -10,6 +10,8 @@ public class AreaCircle {
 	area=pi*r*r;
 	System.out.println("Area of circle is "+area);
 
+	System.out.println("This is a change made as part of GIT");
+
 	}
 
 }
