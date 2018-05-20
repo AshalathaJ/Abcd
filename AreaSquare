@@ -1,0 +1,12 @@
+package Classes;
+
+public class AreaSquare {
+
+	public static void main(String[] args) {
+	int area_square,a=4;
+	area_square=a*a;
+	System.out.println("Area of square is "+area_square);
+
+	}
+
+}
